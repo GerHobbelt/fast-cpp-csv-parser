@@ -1,4 +1,4 @@
-Note: the **only difference of this fork** compared to [the original repo](https://github.com/ben-strasser/fast-cpp-csv-parser) **is CMake support**. However, since the author will never provide CMake support, it is added here. Apart from that, this repo tracks the original one.
+Note: the **only difference of this fork** compared to [the original repo](https://github.com/ben-strasser/fast-cpp-csv-parser) **is CMake support** and a aslightly adjusted project structure. However, since the author ["does not intend to maintain a `CMakeLists.txt` for a single header file"](https://github.com/ben-strasser/fast-cpp-csv-parser/pull/93#issuecomment-932715936), it is added here. Apart from that, this repo tracks the original one.
 
 # Fast C++ CSV Parser
 
