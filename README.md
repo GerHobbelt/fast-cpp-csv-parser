@@ -1,6 +1,8 @@
+Note: the **only difference of this fork** compared to [the original repo](https://github.com/ben-strasser/fast-cpp-csv-parser) **is CMake support**. However, since the author will never provide CMake support, it is added here. Apart from that, this repo tracks the original one.
+
 # Fast C++ CSV Parser
 
-This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files. 
+This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
 
 ## Features
 
