@@ -19,7 +19,7 @@ The following small example should contain most of the syntax you need to use th
 ```cpp
 # include "csv.h"
 
-int main(){
+int main(void){
   io::CSVReader<3> in("ram.csv");
   in.read_header(io::ignore_extra_column, "vendor", "size", "speed");
   std::string vendor; int size; double speed;
